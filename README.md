@@ -2,7 +2,7 @@
 
 I am a passionate B.Tech CS student at KL UNIVERSITY, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![<vaishnavikoornala>'s Stats](https://github-readme-stats.vercel.app/api?username=<vaishnavikoornala>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<vaishnavi-koornala>'s Stats](https://github-readme-stats.vercel.app/api?username=<vaishnavi-koornala>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 <h3>Connect with Me!</h3>
 <p align="center">
 <br/>
-<a href="https://www.linkedin.com/in/Vaishnavi-Koornala/">
+<a href="https://www.linkedin.com/in/vaishnavi-koornala/">
   <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/57393186/151711211-5c29f763-d28a-4b7a-a741-1f8c0dd2fe0e.png" />
 </a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/vaishhxx7/">
