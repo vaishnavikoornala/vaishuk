@@ -1,6 +1,6 @@
-# Hi, I'm <Vaishnavi Koornala>! 👋
+# Hi, I'm <VaishnaviKoornala>! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a passionate B.Tech CS student at KL UNIVERSITY, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
@@ -54,3 +54,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavikoornala&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavikoornala" /> </p>0
