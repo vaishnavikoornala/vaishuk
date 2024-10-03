@@ -57,3 +57,15 @@ Here are some ideas to get you started:
 -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavikoornala&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavikoornala" /> </p>
+
+<h3>Connect with Me!</h3>
+<p align="center">
+<br/>
+<a href="https://www.linkedin.com/in/Vaishnavi Koornala/">
+  <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/57393186/151711211-5c29f763-d28a-4b7a-a741-1f8c0dd2fe0e.png" />
+</a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/vaishhxx7/">
+  <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/57393186/151711168-f5cc60d2-c486-46f1-bc23-c740b719d80d.png" />
+</a>&nbsp;&nbsp;
+</p>
+
